@@ -50,6 +50,6 @@ services:
     image: 'punimeister/ruby-compass'
     restart: 'on-failure'
     volumes:
-    - './assets:/app/assets'
-    - './config.rb:/app/config.rb:ro'
+      - './assets:/app/assets'
+      - './config.rb:/app/config.rb:ro'
 ```
