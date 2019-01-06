@@ -1,13 +1,6 @@
-# punimeister/ruby-compass
+# Supported tags and respective `Dockerfile` links
 
-[![Docker Stars](https://img.shields.io/docker/stars/punimeister/ruby-compass.svg)](https://hub.docker.com/r/punimeister/ruby-compass/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/punimeister/ruby-compass.svg)](https://hub.docker.com/r/punimeister/ruby-compass/)
-[![Docker Automated](https://img.shields.io/docker/automated/punimeister/ruby-compass.svg)](https://hub.docker.com/r/punimeister/ruby-compass/)
-[![Docker Build](https://img.shields.io/docker/build/punimeister/ruby-compass.svg)](https://hub.docker.com/r/punimeister/ruby-compass/)
-
-## Source Code
-
-### [ruby-compass:latest](https://github.com/punimeister/docker-ruby-compass/tree/master/latest)
+- [`latest` (latest/Dockerfile)](https://github.com/punimeister/docker-ruby-compass/blob/master/latest/Dockerfile)
 
 ## Example
 
