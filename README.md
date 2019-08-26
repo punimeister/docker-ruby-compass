@@ -34,15 +34,15 @@ end
 
 ### docker-compose.yml
 
-```
+```yaml
 version: '3'
 
 services:
 
   ruby-compass:
-    image: 'punimeister/ruby-compass'
-    restart: 'on-failure'
+    image: punimeister/ruby-compass
+    restart: on-failure
     volumes:
-      - './assets:/app/assets'
-      - './config.rb:/app/config.rb:ro'
+      - ./assets:/app/assets
+      - ./config.rb:/app/config.rb:ro
 ```
